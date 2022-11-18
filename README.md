@@ -8,10 +8,10 @@ Forest fires are a major environmental issue, creating economic and ecological d
 
 TEAM MEMBERS:
 
-PRANATI.R           - 211419106194
-MONISHA.P           - 211419106171
-PREETHI.S           - 211419106204
-SANGEETHA PRIYA.R   - 211419106233
+PRANATI.R          
+MONISHA.P         
+PREETHI.S           
+SANGEETHA PRIYA.R   
 
 DEMONSTRATION VIDEO:
 https://uploadnow.io/f/4vP0hNy
