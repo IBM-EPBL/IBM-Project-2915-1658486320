@@ -6,7 +6,9 @@ EMERGING METHODS FOR EARLY DETECTION OF FOREST FIRES
 
 Project Description:
 
-Forest fires are a major environmental issue, creating economic and ecological damage while endangering human lives. There are typically about 100,000 wildfires in the United States every year. Over 9 million acres of land have been destroyed due to treacherous wildfires. It is difficult to predict and detect Forest Fire in a sparsely populated forest area and it is more difficult if the prediction is done using ground-based methods like Camera or Video-Based approach. Satellites can be an important source of data prior to and also during the Fire due to its reliability and efficiency. The various real-time forest fire detection and prediction approaches, with the goal of informing the local fire authorities.
+This project is an attempt to use convolutional neural networks (CNN) to detect the presence or the start of a forest fire in an image. The idea is that this model could be applied to detect a fire or a start of a fire from (aerial) surveillance footage of a forest. The model could be applied in real-time to low-framerate surveillance video (with fires not moving very fast, this assumption is somewhat sound) and give alert in case of fire.
+
+
 
 TEAM MEMBERS:
 
